@@ -1,0 +1,9 @@
+C:\Users\win11\Desktop\SnakeGameWinForms\SnakeGameWinForms\bin\Debug\SnakeGameWinForms.exe.config
+C:\Users\win11\Desktop\SnakeGameWinForms\SnakeGameWinForms\bin\Debug\SnakeGameWinForms.exe
+C:\Users\win11\Desktop\SnakeGameWinForms\SnakeGameWinForms\bin\Debug\SnakeGameWinForms.pdb
+C:\Users\win11\Desktop\SnakeGameWinForms\SnakeGameWinForms\obj\Debug\SnakeGameWinForms.csproj.AssemblyReference.cache
+C:\Users\win11\Desktop\SnakeGameWinForms\SnakeGameWinForms\obj\Debug\SnakeGameWinForms.Properties.Resources.resources
+C:\Users\win11\Desktop\SnakeGameWinForms\SnakeGameWinForms\obj\Debug\SnakeGameWinForms.csproj.GenerateResource.cache
+C:\Users\win11\Desktop\SnakeGameWinForms\SnakeGameWinForms\obj\Debug\SnakeGameWinForms.csproj.CoreCompileInputs.cache
+C:\Users\win11\Desktop\SnakeGameWinForms\SnakeGameWinForms\obj\Debug\SnakeGameWinForms.exe
+C:\Users\win11\Desktop\SnakeGameWinForms\SnakeGameWinForms\obj\Debug\SnakeGameWinForms.pdb
